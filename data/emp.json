@@ -1,0 +1,19 @@
+{
+    "employees": [
+      {
+        "name": "John Doe",
+        "details": "Software Engineer",
+        "projectId": "P001"
+      },
+      {
+        "name": "Jane Smith",
+        "details": "UI/UX Designer",
+        "projectId": "P002"
+      },
+      {
+        "name": "Mike Johnson",
+        "details": "Project Manager",
+        "projectId": "P003"
+      }
+    ]
+  }

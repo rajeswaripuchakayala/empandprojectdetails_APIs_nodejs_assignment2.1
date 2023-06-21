@@ -1,0 +1,19 @@
+{
+    "projects": [
+      {
+        "projectId": "P001",
+        "name": "Website Development",
+        "client": "ABC Company"
+      },
+      {
+        "projectId": "P002",
+        "name": "Mobile App Design",
+        "client": "XYZ Corporation"
+      },
+      {
+        "projectId": "P003",
+        "name": "E-commerce Platform",
+        "client": "123 Enterprises"
+      }
+    ]
+  }
